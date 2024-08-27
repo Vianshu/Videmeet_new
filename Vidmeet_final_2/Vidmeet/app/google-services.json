@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "352431725816",
+    "project_id": "vidmeetdb-331b6",
+    "storage_bucket": "vidmeetdb-331b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352431725816:android:083357567ce0790b3def0d",
+        "android_client_info": {
+          "package_name": "com.example.vidmeet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUwhGaqrjMmwCns7L3CMR95D9SQn5ab0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

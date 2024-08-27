@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Vidmeet</string>
+    <string name="enter_conference_name">Enter conference name...</string>
+    <string name="join">Join</string>
+</resources>
